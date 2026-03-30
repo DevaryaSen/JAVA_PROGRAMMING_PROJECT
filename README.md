@@ -2,7 +2,7 @@
 
 > A desktop application that thinks about your workload so you don't have to.
 
-![App Banner](screenshots/banner.png)
+
 <img width="972" height="615" alt="image" src="https://github.com/user-attachments/assets/918577a2-07eb-4ab3-a42a-4a4c3decb4d4" />
 
 
